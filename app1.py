@@ -7,7 +7,7 @@ import csv
 import os
 from sklearn.preprocessing import StandardScaler
 from sklearn.preprocessing import LabelEncoder
-from audio_recorder_streamlit import audio_recorder
+#from audio_recorder_streamlit import audio_recorder
 
 
 # def predict_age(audio_bytes):
