@@ -14,12 +14,12 @@ The input audio file should be 30 sec long and the format should be .wav. You ca
 
 ## Screenshots
         
+![alt text](https://github.com/DirectorOfUnskillful/Music_Genre_Classification/blob/main/Screenshot%202023-07-19%20at%201.22.16%20AM.png)
 
-![App Screenshot](Screenshot 2023-07-19 at 1.22.16 AM.png)
-        
-![App Screenshot](Screenshot 2023-07-19 at 1.22.50 AM.png)
-        
-![App Screenshot](Screenshot 2023-07-19 at 1.22.28 AM.png)
+
+![alt text](https://github.com/DirectorOfUnskillful/Music_Genre_Classification/blob/main/Screenshot%202023-07-19%20at%201.22.28%20AM.png)
+
+![alt text](https://github.com/DirectorOfUnskillful/Music_Genre_Classification/blob/main/Screenshot%202023-07-19%20at%201.22.50%20AM.png)
 
 
 
