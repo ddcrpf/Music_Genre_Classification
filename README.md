@@ -14,11 +14,12 @@ The input audio file should be 30 sec long and the format should be .wav. You ca
 
 ## Screenshots
         
-![App Screenshot]("Screenshot 2023-07-19 at 1.22.16 AM.png")
+
+![App Screenshot](Screenshot 2023-07-19 at 1.22.16 AM.png)
         
-![App Screenshot]("Screenshot 2023-07-19 at 1.22.50 AM.png")
+![App Screenshot](Screenshot 2023-07-19 at 1.22.50 AM.png)
         
-![App Screenshot]("Screenshot 2023-07-19 at 1.22.28 AM.png")
+![App Screenshot](Screenshot 2023-07-19 at 1.22.28 AM.png)
 
 
 
